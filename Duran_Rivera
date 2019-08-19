@@ -1,6 +1,21 @@
+Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+
+    Sin parámetros
+    Parámetro: qwerty
+    Parámetro: pentagon
+    Parámetro Hexagon
+
+
+¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+Sólo funciona correctamente con el parámetro Hexagon, ya que es el único que es exactamente igual a uno de los nombres de las figuras en la enumeración de la clase RegularShapeType.
+
+
 https://github.com/migue1994/Lab02.git
 
 Nombres:
 
 - Miguel Ángel Rivera
 - Natalia Durán
+
+
